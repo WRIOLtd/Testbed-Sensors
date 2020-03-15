@@ -1,4 +1,4 @@
-CONTIKI = ../..
+CONTIKI = /opt/contiki-ng
 
 CONTIKI_PROJECT = toggle-shell
 
